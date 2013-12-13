@@ -5,19 +5,19 @@ WordPress 瀑布流主题 PhotoBroad
 
 Demo预览：http://photobroad.webjyh.com/
 
-主题介绍：
+主题介绍：<br />
     01. 瀑布流式布局<br />
-    02. 四种文章显示形式
-    03. 自带音乐播放器 (http://photobroad.webjyh.com/archives/177)
-    04. 集成phZoom轻量级看图插件
-    05. 图片Logo Or 文字Logo 后台随便切换
-    06. 自定义Logo上传
-    07. 自定义网站标志 favicon.ico 上传
-    08. 页面布局，两栏 随便切换 sidebar 想在左就在左，想在右就在右
-    09. 自定义CSS，HTML 代码
-    10. 自定义背景图片 和 背景颜色
-    11. 自定义瀑布流布局 文字长短
-    12. 音乐 视频 文章一起发布
+    02. 四种文章显示形式<br />
+    03. 自带音乐播放器 (http://photobroad.webjyh.com/archives/177)<br />
+    04. 集成phZoom轻量级看图插件<br />
+    05. 图片Logo Or 文字Logo 后台随便切换<br />
+    06. 自定义Logo上传<br />
+    07. 自定义网站标志 favicon.ico 上传<br />
+    08. 页面布局，两栏 随便切换 sidebar 想在左就在左，想在右就在右<br />
+    09. 自定义CSS，HTML 代码<br />
+    10. 自定义背景图片 和 背景颜色<br />
+    11. 自定义瀑布流布局 文字长短<br />
+    12. 音乐 视频 文章一起发布<br />
     13. 默认新增小工具，相关文章（以图片方式展现）
     
 主题使用：
