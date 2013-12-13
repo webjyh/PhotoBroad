@@ -6,7 +6,7 @@ WordPress 瀑布流主题 PhotoBroad
 Demo预览：http://photobroad.webjyh.com/
 
 主题介绍：
-    01. 瀑布流式布局
+    01. 瀑布流式布局<br />
     02. 四种文章显示形式
     03. 自带音乐播放器 (http://photobroad.webjyh.com/archives/177)
     04. 集成phZoom轻量级看图插件
