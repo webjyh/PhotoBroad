@@ -2,8 +2,9 @@ PhotoBroad
 ==========
 
 <h3>WordPress 瀑布流主题 PhotoBroad</h3>
+==========
 
-<strong>Demo预览</strong>：http://photobroad.webjyh.com/
+<p><strong>Demo预览</strong>：http://photobroad.webjyh.com</p>
 
 <h4>主题介绍：</h4>
 <ol>
@@ -22,7 +23,6 @@ PhotoBroad
 	<li>默认新增小工具，相关文章（以图片方式展现）</li>
 </ol>
 
-<h4>主题使用：</h4>
-    <p>可以不安装任何插件，想要体验效果更好，可以装上 WP-PostViews 插件，将插件设置 Views Template: 的值修改为 %VIEW_COUNT% 瀑布流前台文章，即后台 -> 设置 -> 阅读 -> 博客页面至多显示 将其设置成 20 或者更多会更好。</p>
-
-    <p>添加文章时，选择文章类型 ，点击选择 视频和音频 时，在编辑器下会出现 视频和音频的选项，可以上传视频和音频的缩略图~</p>
+<h4>主题下载</h4>
+	
+https://github.com/webjyh/PhotoBroad/
