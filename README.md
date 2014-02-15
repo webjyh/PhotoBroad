@@ -1,7 +1,7 @@
 PhotoBroad
 ==========
 
-<h3>WordPress 瀑布流主题 PhotoBroad</h3>
+<h3>WordPress 瀑布流主题 PhotoBroad V1.0</h3>
 ==========
 
 <p><strong>Demo预览</strong>：http://photobroad.webjyh.com</p>
